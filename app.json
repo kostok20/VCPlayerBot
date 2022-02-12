@@ -16,15 +16,15 @@
     ],
     "env": {
       "API_ID": {
-        "description": "api_id part of your Telegram API Key from my.telegram.org/apps",
+        "description": "1320790",
         "required": true
       },
       "API_HASH": {
-        "description": "api_hash part of your Telegram API Key from my.telegram.org/apps",
+        "description": "e280d12162e1bb11633da9d02df1b50e",
         "required": true
       },
       "BOT_TOKEN": {
-        "description": "Bot token of Bot, get from @Botfather",
+        "description": "5155448777:AAEcpjXBH39LJj7AWQPWBLIym91bJIdE0cA",
         "required": true
       },
       "SESSION_STRING": {
@@ -58,11 +58,11 @@
         "required": false
       },
       "HEROKU_API_KEY": {
-        "description": "Your heroku api key, get it from https://dashboard.heroku.com/account/applications/authorizations/new.",
+        "description": "6df20a21-5378-457a-9355-95853a5d5aff",
         "required": false
       },
       "HEROKU_APP_NAME": {
-        "description": "Heroku App Name.",
+        "description": "sohbetmuzik",
         "required": false
       },
       "STARTUP_STREAM": {
